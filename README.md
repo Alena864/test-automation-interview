@@ -1,4 +1,4 @@
-# Test Automation Framework  
+# Test Automation Framework  to do add instructions 
 
 This repository contains a simple test automation framework written in **Java** using **Selenium** and **TestNG**. The framework follows the **Page Object Model (POM)** design pattern for better maintainability.  
 
